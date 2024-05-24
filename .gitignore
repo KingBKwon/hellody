@@ -1,0 +1,6 @@
+__pycache__
+CRUD/__pycache__
+DB/__pycache__
+routers/__pycache__
+/app/.env
+/app/.model
